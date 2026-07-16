@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Aysha Siddika 👋 
 
-<!--
-**ayshasiddika-sec/ayshasiddika-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Cyber Security Student & Bug Bounty Hunter
+Welcome to my GitHub profile! I am deeply passionate about ethical hacking, penetration testing, and web application security. I love automating tasks and finding hidden vulnerabilities.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Tools
+- **OS:** Kali Linux 🐧
+- **Tools:** Tor Browser 🌐, httpx, Burp Suite, Nmap
+- **Scripting:** Bash, Python
+- **Focus Areas:** Reconnaissance Automation, Web App VAPT, Bug Hunting
+
+---
+
+### 🚀 Tools & Projects I'm Working On
+- 🛠️ Developing custom automation scripts for subdomains and live asset filtering.
+- 🎯 Practicing advanced reconnaissance and vulnerability assessment methodologies.
+- 📈 Constantly learning new concepts to elevate my security research skills.
+
+---
+
+### 🤝 Let's Connect!
+- **GitHub:** [ayshasiddika-sec](https://github.com/ayshasiddika-sec)
+
+_"The quieter you become, the more you are able to hear."_
